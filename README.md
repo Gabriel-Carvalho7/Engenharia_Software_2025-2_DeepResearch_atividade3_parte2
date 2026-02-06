@@ -16,7 +16,7 @@
 ### [Acessar vídeo]()<br>
 
 ## 📚 Sobre o Tutorial
----
+--- 
 Este tutorial apresenta como objetivo demonstrar o processo de análise e mapeamento de automações no Projeto DeepResearch a partir de seu repositório no github, utilizando sua branch principal e abas auxiliares como meios de verificação.
 ---
 
