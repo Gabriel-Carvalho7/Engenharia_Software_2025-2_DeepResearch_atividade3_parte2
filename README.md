@@ -36,33 +36,29 @@ Optamos por criar uma Prova de Conceito (PoC) para isolar o fluxo de automação
 - Garantir a estabilidade do pipeline, focando no ciclo de vida da automação sem a interferência de dependências pesadas ou custos de API.
 - Validar o fluxo de trabalho, provando que a infraestrutura de CI está configurada corretamente para o ambiente proposto.
 
-<p align="center"> <img src="assets/actionsPage.jpg" width="70%"> </p>
-
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
-
 ## 2. Evidências e Diagramas
 
 ### 2.1 Diagrama do Pipeline Implementado:
 
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
+<p align="center"> <img src="assets/diagrama.png" width="70%"> </p>
 
 ### 2.2 Print da Aba Actions:
 
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
+<p align="center"> <img src="assets/abaActions.png" width="70%"> </p>
 
 ### 2.3 Código YAML:
 
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
+<p align="center"> <img src="assets/codigoYaml.png" width="70%"> </p>
 
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
+<p align="center"> <img src="assets/codigoYaml2.png" width="70%"> </p>
 
 ### 2.4 Código de Teste sem erros:
 
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
+<p align="center"> <img src="assets/codigoCerto.png" width="70%"> </p>
 
 ### 2.5 Código de Teste com erro:
 
-<p align="center"> <img src="assets/pullRequest.jpg" width="70%"> </p>
+<p align="center"> <img src="assets/codigoErro.png" width="70%"> </p>
 
 ## 3. Redação e Análise
 
