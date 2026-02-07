@@ -2,10 +2,10 @@
 ## Equipe 1 - DeepResearch
 | Nome                              | Matrícula     | Descrição da atividade                                                                                   |
 |----------------------------------|---------------|-----------------------------------------------------------------------------------------------------------|
-| Álex Santos Alencar              | 202300061518  |                      |
+| Álex Santos Alencar              | 202300061518  | Análise e elaboração da estratégia de implementação.                     |
 | Ellen Karolliny dos Santos       | 202300114326  | Justificativa da escolha da estratégia de Contingência.                           |
 | Gabriel Ramos de Carvalho        | 202300061920  | Coleta de Evidências, Edição de Vídeo e Github.                  |
-| João Andryel Santos Menezes      | 202300061652  |               |
+| João Andryel Santos Menezes      | 202300061652  | Fork e Implementação do Linter.              |
 | Larissa Batista dos Santos       | 202300061705  | Coleta de Evidências e Diagramas.            |
 | Paloma dos Santos                | 202300061723  | Descrever o Impacto na Evolução do Software e Onboarding.                 |
 
@@ -13,7 +13,7 @@
 ### Link do Fork - https://github.com/JoaoAndryelDCOMP/DeepResearch
 
 ## Vídeo de apresentação dos resultados e síntese do projeto
-### [Acessar vídeo]()<br>
+### [Acessar vídeo](https://drive.google.com/file/d/1QDrYGoCQKzJz_Y9uakuwp-guxBXwc5Ya/view?usp=sharing)<br>
 
 ## 📚 Sobre o Tutorial
 --- 
@@ -85,6 +85,5 @@ Acesse a versão em PDF contendo:
 - Evidências
 - Análise
 - Conclusões 
-- Referências
 
-### [Acessar documento](docs/ESII-analise-Atividade3_parte1.pdf)<br>
+### [Acessar documento](https://drive.google.com/file/d/1az1Hm0Kt2yDchWrbojOIEFQvIx8LYGMG/view?usp=drive_link)<br>
