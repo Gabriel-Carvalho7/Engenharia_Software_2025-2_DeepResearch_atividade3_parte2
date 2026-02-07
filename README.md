@@ -12,13 +12,8 @@
 ### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch
 ### Link do Fork - https://github.com/JoaoAndryelDCOMP/DeepResearch
 
-## Vídeo de apresentação dos resultados e síntese do projeto
+## Vídeo de Apresentação dos Resultados e Síntese do Projeto
 ### [Acessar vídeo](https://drive.google.com/file/d/1QDrYGoCQKzJz_Y9uakuwp-guxBXwc5Ya/view?usp=sharing)<br>
-
-## 📚 Sobre o Tutorial
---- 
-Este tutorial apresenta como objetivo demonstrar o processo de análise e mapeamento de automações no Projeto DeepResearch a partir de seu repositório no github, utilizando sua branch principal e abas auxiliares como meios de verificação.
----
 
 ## 1. Implementação Técnica
 
